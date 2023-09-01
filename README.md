@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florianackle&label=Profile%20views&color=0e75b6&style=flat" alt="florianackle" /> </p>
 
-<h3 align="center">About me:</h3>
 - 🌱 I’m currently learning **Web Development and other programming languages**
+
 - 👨‍💻 All of my projects are available at [https://github.com/florianackle/](https://github.com/florianackle/)
+
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
 
 
