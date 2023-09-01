@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Florian Ackle</h1>
+
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=florianackle&color=red&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
+
+- 🌱 I’m currently learning Web Development and other programming languages
 
 <!--
 **florianackle/florianackle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
