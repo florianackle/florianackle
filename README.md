@@ -5,7 +5,7 @@
 
 # 🙋🏼‍♂️ About Me:
 - 🌱 I’m currently learning **Web Development and other programming languages**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/florianackle/)
+- 👨‍💻 Most of my projects are available at [GitHub](https://github.com/florianackle/)
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
 </p>
 
